@@ -9,6 +9,7 @@ public class Hello3 {
 		System.out.println("this is a beautiful day");
 		System.out.println("i am b");
 		System.out.println("i amd very b");
+		System.out.println("12345");
 	}
 
 }
