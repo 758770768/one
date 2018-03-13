@@ -10,6 +10,7 @@ public class Hello3 {
 		System.out.println("i am b");
 		System.out.println("i am very a");
 		System.out.println("i amd very b");
+		System.out.println("i amd very b");
 	}
 
 }
